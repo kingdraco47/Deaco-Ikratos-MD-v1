@@ -129,7 +129,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+94755982430// - - THANKS TO - -
+global.phn = '+94755982430'// - - THANKS TO - -
 // • Sl Max Shanu 🇱🇰
 
 import { watchFile, unwatchFile } from 'fs'
